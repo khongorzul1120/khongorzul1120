@@ -116,6 +116,11 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khongorzul1120&bg_color=F5F0FF&color=6D28D9&line=8B5CF6&point=EC4899&area=true&hide_border=true" alt="Contribution graph"/>
 </p>
 
@@ -123,14 +128,11 @@
   <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" alt="Snake eating my contribution graph"/>
-</p>
 
 ---
 
 <p align="center">
-  <a href="mailto:khongorzul.o@zerotech.mn">
+  <a href="mailto:khzul1120@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
