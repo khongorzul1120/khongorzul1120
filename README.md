@@ -41,16 +41,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph"
-         src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khongorzul1120&hide_border=true&background=F5F0FF&stroke=E9D5FF&ring=8B5CF6&fire=EC4899&currStreakLabel=6D28D9&sideLabels=6D28D9&currStreakNum=4C1D95&sideNums=4C1D95&dates=7C3AED" alt="Streak stats"/>
@@ -62,6 +52,18 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+</p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph"
+         src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
