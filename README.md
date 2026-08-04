@@ -15,20 +15,70 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⭐ &nbsp;T E C H &nbsp; S T A C K
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=dart,swift,ts,js,py,kotlin" alt="Languages"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Mobile &amp; Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,html,css" alt="Frontend"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,supabase" alt="Backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>AI &amp; Data</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,postgres,mongodb" alt="AI and data"/>
+    </td>
+    <td align="center">
+      <strong>Tools &amp; DevOps</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,xcode,figma" alt="Tools"/>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+---
+
+## ⭐ &nbsp;F E A T U R E D &nbsp; P R O J E C T S
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="https://github.com/khongorzul1120/new_word_app">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongorzul1120&repo=new_word_app&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95&icon_color=9333EA" alt="new_word_app"/>
+  </a>
+  <a href="https://github.com/khongorzul1120/MediFlow">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongorzul1120&repo=MediFlow&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95&icon_color=9333EA" alt="MediFlow"/>
+  </a>
 </p>
 
 ---
 
-## ⭐ GitHub Analytics
+## ⭐ &nbsp;T O P &nbsp; C O N T R I B U T I O N S
+
+<p align="center">
+  <a href="https://github.com/Nebulyn-Labs/MediFlow">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nebulyn-Labs&repo=MediFlow&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95&icon_color=9333EA" alt="Nebulyn-Labs/MediFlow"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    <b>MediFlow</b> — consolidated duplicated AI fallback handling across six Gemini
+    workflows into a single shared helper, with regression tests
+    (<a href="https://github.com/Nebulyn-Labs/MediFlow/issues/93">#93</a>).
+  </sub>
+</p>
+
+---
+
+## ⭐ &nbsp;G I T H U B &nbsp; A N A L Y T I C S
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details"/>
@@ -59,13 +109,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" alt="Snake eating my contribution graph"/>
 </p>
-
----
-
-## 📌 What I'm working on
-
-- **[MediFlow](https://github.com/Nebulyn-Labs/MediFlow)** — refactoring the AI service layer: consolidated duplicated fallback handling across six Gemini workflows into a single shared helper, with regression tests.
-- Flutter apps for iOS and Android.
 
 ---
 
