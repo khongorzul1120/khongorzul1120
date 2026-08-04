@@ -47,35 +47,52 @@
 
 ---
 
+
 ## ⭐ &nbsp;F E A T U R E D &nbsp; P R O J E C T S
 
-<p align="center">
-  <a href="https://github.com/khongorzul1120/new_word_app">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongorzul1120&repo=new_word_app&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95&icon_color=9333EA" alt="new_word_app"/>
-  </a>
-  <a href="https://github.com/khongorzul1120/MediFlow">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=khongorzul1120&repo=MediFlow&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95&icon_color=9333EA" alt="MediFlow"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/khongorzul1120/new_word_app">📘 new_word_app</a></h3>
+      <p>A Flutter vocabulary app for building and reviewing a personal word list.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/github/stars/khongorzul1120/new_word_app?style=flat-square&color=8B5CF6" alt="Stars"/>
+        <img src="https://img.shields.io/github/last-commit/khongorzul1120/new_word_app?style=flat-square&color=A78BFA" alt="Last commit"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/khongorzul1120/MediFlow">🏥 MediFlow</a></h3>
+      <p>AI-powered medical logistics platform — demand forecasting, smart alerts and route-optimised redistribution.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        <img src="https://img.shields.io/github/last-commit/khongorzul1120/MediFlow?style=flat-square&color=A78BFA" alt="Last commit"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⭐ &nbsp;T O P &nbsp; C O N T R I B U T I O N S
 
-<p align="center">
-  <a href="https://github.com/Nebulyn-Labs/MediFlow">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nebulyn-Labs&repo=MediFlow&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95&icon_color=9333EA" alt="Nebulyn-Labs/MediFlow"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    <b>MediFlow</b> — consolidated duplicated AI fallback handling across six Gemini
-    workflows into a single shared helper, with regression tests
-    (<a href="https://github.com/Nebulyn-Labs/MediFlow/issues/93">#93</a>).
-  </sub>
-</p>
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nebulyn-Labs/MediFlow">🏥 Nebulyn-Labs/MediFlow</a></h3>
+      <p>Consolidated duplicated AI fallback handling across six Gemini workflows into a single shared helper, with regression tests.</p>
+      <p>
+        <a href="https://github.com/Nebulyn-Labs/MediFlow/issues/93">
+          <img src="https://img.shields.io/badge/issue-%2393-8B5CF6?style=flat-square" alt="Issue 93"/>
+        </a>
+        <img src="https://img.shields.io/github/stars/Nebulyn-Labs/MediFlow?style=flat-square&color=8B5CF6" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Nebulyn-Labs/MediFlow?style=flat-square&color=A78BFA" alt="Forks"/>
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 ---
 
 ## ⭐ &nbsp;G I T H U B &nbsp; A N A L Y T I C S
