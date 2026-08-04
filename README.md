@@ -30,17 +30,19 @@
 
 ## ⭐ GitHub Analytics
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=khongorzul1120&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95&icon_color=9333EA" alt="GitHub stats"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khongorzul1120&layout=compact&langs_count=8&hide_border=true&bg_color=F5F0FF&title_color=6D28D9&text_color=4C1D95" alt="Top languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/0-profile-details.svg" alt="Profile details"/>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/1-repos-per-language.svg" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/2-most-commit-language.svg" alt="Most commit language"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/3-stats.svg" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/4-productive-time.svg" alt="Productive time"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khongorzul1120&hide_border=true&background=F5F0FF&stroke=E9D5FF&ring=8B5CF6&fire=EC4899&currStreakLabel=6D28D9&sideLabels=6D28D9&currStreakNum=4C1D95&sideNums=4C1D95&dates=7C3AED" alt="Streak stats"/>
