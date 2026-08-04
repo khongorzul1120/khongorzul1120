@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
@@ -31,17 +31,17 @@
 ## ⭐ GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/0-profile-details.svg" alt="Profile details"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/1-repos-per-language.svg" alt="Repos per language"/>
-  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/2-most-commit-language.svg" alt="Most commit language"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/3-stats.svg" alt="Stats"/>
-  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github_light/4-productive-time.svg" alt="Productive time"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github/3-stats.svg" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive time"/>
 </p>
 
 <p align="center">
@@ -53,19 +53,11 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
 </p>
 
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph"
-         src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/khongorzul1120/khongorzul1120/output/github-snake.svg" alt="Snake eating my contribution graph"/>
 </p>
 
 ---
